@@ -2,7 +2,7 @@
 **Your digital wardrobe.**
 
 <p align="center">
-  </p><img width="1024" height="1024" alt="App Icon Template (white background) - Copia" src="https://github.com/user-attachments/assets/6d0b08d2-f367-4c6d-9c6a-6c73da950e3c" />
+  </p><img width="125" height="125" alt="App Icon Template (white background) - Copia" src="https://github.com/user-attachments/assets/6d0b08d2-f367-4c6d-9c6a-6c73da950e3c" />
   <img src="" alt="App Mockup" width="600"/>
 
 
