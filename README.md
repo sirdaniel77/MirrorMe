@@ -3,8 +3,6 @@
 
 <p align="center">
   </p><img width="125" height="125" alt="App Icon Template (white background) - Copia" src="https://github.com/user-attachments/assets/6d0b08d2-f367-4c6d-9c6a-6c73da950e3c" />
-  <img src="" alt="App Mockup" width="600"/>
-
 
 ## 🎯 The Challenge
 > "An iOS application that allows you to create a personalized digital avatar to virtually try on different outfits and discover the perfect look."
