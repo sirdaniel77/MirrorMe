@@ -19,12 +19,11 @@ MirrorMe is not a shopping app or a social platform. It is a personal tool built
 * **Smart Layering:** Layer clothing items realistically to create the perfect outfit.
 * **Outfit Planner:** Plan your looks in advance with the integrated calendar.
 
-## Our Team:
-Daniele Ettore
-Fabio Greco
-Noemi Spera
-Alireza Hashempour
-Humayoon Baig
-Hamza Muhammad
-Kirubel Dereje
-
+## 👥 Team Diamond
+* **Daniele Ettore**
+* **Fabio Greco**
+* **Noemi Spera**
+* **Alireza Hashempour**
+* **Humayoon Baig**
+* **Hamza Muhammad**
+* **Kirubel Dereje**
